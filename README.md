@@ -10,6 +10,7 @@
   <li> Rust </li>
   <li> Tauri </li>
   <li> Rocket </li>
+  <li> Data Structures and Algorithms <li>
 </ul>
 
 <h3>
