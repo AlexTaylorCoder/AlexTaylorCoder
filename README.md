@@ -7,9 +7,7 @@
 
 <h3> :notebook: Current learning</h3>
 <ul>
-  <li> Rust </li>
-  <li> Tauri </li>
-  <li> Rocket </li>
+  <li> Python <li>
   <li> Data Structures and Algorithms <li>
 </ul>
 
