@@ -28,7 +28,7 @@
 ## Github Stats  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextaylorcoder)](https://github.com/alextaylorcoder/github-readme-stats) -->
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alextaylorcoder"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=alextaylorcoder&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alextaylorcoder" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alextaylorcoder&show_icons=true&count_private=true&hide_border=true" align="right" />
 </div>  
 <br/>  
