@@ -2,15 +2,13 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning more about **Data Structures and Algorithms**
 
 - 📝 I regularly write articles on [https://medium.com/@alextaylor515](https://medium.com/@alextaylor515)
 
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **alextaylor515@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-45QubwydsqYR_EZ205nqHqTBedI4Xhp_9QX5Je1lcA/edit?usp=sharing](https://docs.google.com/document/d/1-45QubwydsqYR_EZ205nqHqTBedI4Xhp_9QX5Je1lcA/edit?usp=sharing)
 
 - ⚡ Fun fact **I play guitar**
 
