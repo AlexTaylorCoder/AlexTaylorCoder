@@ -20,7 +20,6 @@
 </p>
 
 ## GitHub Stats  
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTaylorCoder&layout=compact&langs_count=8" />
   <img src="https://github-readme-stats.vercel.app/api?username=AlexTaylorCoder&show_icons=true&count_private=true" />
